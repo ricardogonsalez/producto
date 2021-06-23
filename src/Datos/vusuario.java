@@ -7,8 +7,7 @@
 package Datos;
 
 /**
- *
- * @author Ismael
+
  */
 
 public class vusuario {
